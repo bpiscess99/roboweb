@@ -1,0 +1,11 @@
+.card{
+    padding: 10px;
+}
+
+.card-img{
+    height: 300px;    
+}
+
+.btn-success{
+    color: black;
+}
